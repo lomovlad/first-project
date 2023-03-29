@@ -1,0 +1,10 @@
+.main {
+  padding-top: 30px;
+}
+
+.main__title {
+	text-align: center;
+	font-size: 45px;
+	color: blueviolet;
+	background-color: blanchedalmond;
+}
